@@ -18,7 +18,7 @@ The solution uses these exact table and column names from the assignment files:
 
 - MySQL and the Assignment 1 database and tables.
 - The supplied `employee data.sql` insert script.
-- The completed solution file: [`mysql_assignment_2_solution.sql`](mysql_assignment_2_solution.sql).
+
 
 ## How to run
 
